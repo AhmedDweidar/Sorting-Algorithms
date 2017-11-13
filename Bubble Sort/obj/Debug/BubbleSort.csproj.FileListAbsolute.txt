@@ -1,0 +1,6 @@
+C:\Users\adweidar\Documents\GitHub\Sorting-Algorithms\Bubble Sort\bin\Debug\BubbleSort.exe.config
+C:\Users\adweidar\Documents\GitHub\Sorting-Algorithms\Bubble Sort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\adweidar\Documents\GitHub\Sorting-Algorithms\Bubble Sort\bin\Debug\BubbleSort.exe
+C:\Users\adweidar\Documents\GitHub\Sorting-Algorithms\Bubble Sort\bin\Debug\BubbleSort.pdb
+C:\Users\adweidar\Documents\GitHub\Sorting-Algorithms\Bubble Sort\obj\Debug\BubbleSort.exe
+C:\Users\adweidar\Documents\GitHub\Sorting-Algorithms\Bubble Sort\obj\Debug\BubbleSort.pdb
