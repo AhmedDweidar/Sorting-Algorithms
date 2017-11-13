@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// hello my name is ahmed
-// hello how ary you
+
 namespace BubbleSort
 {
     class Sorter<T> where T : IComparable<T> 
