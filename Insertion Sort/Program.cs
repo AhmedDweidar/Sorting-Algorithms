@@ -15,6 +15,13 @@ namespace InsertionSort
 
             sort.InsertionSorter(numbers);
             sort.Print(numbers);
+            Console.WriteLine();
+
+            Sorter<double> sort2 = new Sorter<double>();
+            double[] numbers2 = { -6.5, 2.9, 102.36, 45.3, 0.2, 29.3, 78.1 };
+
+            sort2.InsertionSorter(numbers2);
+            sort2.Print(numbers2);
 
             Console.WriteLine();
             Console.Write("Press any key to exit...");

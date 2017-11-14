@@ -10,6 +10,7 @@ namespace InsertionSort
     {
         public void InsertionSorter(T[] array)
         {
+            // variable used for swap
             T temp;
 
             for (int i = 1; i < array.Length; i++)
