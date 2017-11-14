@@ -1,2 +1,4 @@
 # Sorting-Algorithms
-Various sorting algorithms
+
+
+This folder contains several sorting algorithms written in various programming languages.
