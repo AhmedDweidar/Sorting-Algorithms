@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// hello world
+
 namespace MaxMin
 {
     class Sorter<T> where T : IComparable<T>
