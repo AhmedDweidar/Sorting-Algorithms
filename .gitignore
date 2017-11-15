@@ -201,3 +201,8 @@ Bubble Sort/bin/Debug/BubbleSort.exe
 Bubble Sort/bin/Debug/BubbleSort.pdb
 Bubble Sort/obj/Debug/BubbleSort.exe
 Bubble Sort/obj/Debug/BubbleSort.pdb
+*.exe
+*.pdb
+*.suo
+*.exe
+*.pdb
