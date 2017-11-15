@@ -190,3 +190,10 @@ ModelManifest.xml
 Test/Sorter.cs
 Test/Sorter.cs
 Bubble Sort/BubbleSort.v12.suo
+*.exe
+*.exe
+*.pdb
+*.pdb
+*.exe
+Bubble Sort/bin/Debug/BubbleSort.exe
+*.exe
